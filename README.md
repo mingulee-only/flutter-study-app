@@ -8,6 +8,7 @@
 
 #1 간단한 로컬 로그인 구현
 
+.
 
 ![image](https://user-images.githubusercontent.com/69645295/125265893-3c0f9b80-e340-11eb-9313-d011a3757e75.png)
 ![image](https://user-images.githubusercontent.com/69645295/125265969-4e89d500-e340-11eb-8ee5-817a64bcbd35.png)
@@ -19,6 +20,7 @@
 
 #2 캘린더에 공부한 달성율에 따라 색상 표시
 
+.
 
 ![image](https://user-images.githubusercontent.com/69645295/125266248-9ad51500-e340-11eb-9b44-39e79eb90c8e.png)
 ![image](https://user-images.githubusercontent.com/69645295/125266256-9dd00580-e340-11eb-9008-418f72541a10.png)
@@ -31,6 +33,7 @@
 
 #3 일기장 탭에서 매일의 일기를 작성할 수 있도록 구현 (게시글 작성, 삭제)
 
+.
 
 ![image](https://user-images.githubusercontent.com/69645295/125266388-be985b00-e340-11eb-80ef-886f1fc1e6f0.png)
 ![image](https://user-images.githubusercontent.com/69645295/125266394-c0fab500-e340-11eb-92bb-011b063d6425.png)
@@ -42,6 +45,8 @@
 
 
 #4 스터디그룹 가입 및 탈퇴, 간단한 채팅
+
+.
 
 
 ![image](https://user-images.githubusercontent.com/69645295/125266538-dff94700-e340-11eb-8fa8-3f0f92c523d0.png)
@@ -56,7 +61,7 @@
 
 
 
-
+.
 
 #5 이외
 드로워 내에서 프로필을 확인하고, 닉네임 수정 가능
